@@ -2,7 +2,6 @@
 
 This repository contains following files:
 
-- `transformer.pth`: Generated model file
 - `config.py`: Configuration data for Transformer model training
 - `dataset.py`: Contains dataset class to create data for English to Italian translation 
 - `LITTransformer.py`: Contains lightning module to train the transformer model
